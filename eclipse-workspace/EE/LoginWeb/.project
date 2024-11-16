@@ -27,6 +27,8 @@
         <nature>org.eclipse.wst.common.project.facet.core.nature</nature>
         <nature>org.eclipse.jdt.core.javanature</nature>
         <nature>org.eclipse.wst.jsdt.core.jsNature</nature>
-        <!-- Add Jakarta-specific nature if required by your Eclipse configuration -->
+        
+        <!-- Add Jakarta-specific nature if required by your Eclipse setup -->
+        <!-- Example (if applicable): <nature>org.eclipse.jakartaee</nature> -->
     </natures>
 </projectDescription>
