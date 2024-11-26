@@ -69,10 +69,3 @@ diff*0);
 	end;//
 
 ```
-
-
-## Contributing
-
-Contributions are always welcome!
-<br>
-<a href="https://github.com/Pranavgadakh0108/" target="_blank">@Pranav Gadkh</a>
